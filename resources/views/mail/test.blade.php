@@ -1,0 +1,3 @@
+Pretty much just empty basic view... 
+
+sent on {{ now()->diffForHumans() }} ({{ now() }})
